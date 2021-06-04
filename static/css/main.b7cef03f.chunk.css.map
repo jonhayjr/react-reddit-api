@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,GACE,eACF,CAEA,EACE,oBACF","file":"main.b7cef03f.chunk.css","sourcesContent":["li {\n  list-style: none;\n}\n\na {\n  text-decoration: none;\n}"]}

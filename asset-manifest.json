@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reddit-api-react-app/static/css/main.b7cef03f.chunk.css",
+    "main.js": "/reddit-api-react-app/static/js/main.0f9857b9.chunk.js",
+    "main.js.map": "/reddit-api-react-app/static/js/main.0f9857b9.chunk.js.map",
+    "runtime-main.js": "/reddit-api-react-app/static/js/runtime-main.48ca0729.js",
+    "runtime-main.js.map": "/reddit-api-react-app/static/js/runtime-main.48ca0729.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/reddit-api-react-app/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.307c2d23.chunk.js": "/reddit-api-react-app/static/js/2.307c2d23.chunk.js",
+    "static/js/2.307c2d23.chunk.js.map": "/reddit-api-react-app/static/js/2.307c2d23.chunk.js.map",
+    "static/js/3.778fd9ec.chunk.js": "/reddit-api-react-app/static/js/3.778fd9ec.chunk.js",
+    "static/js/3.778fd9ec.chunk.js.map": "/reddit-api-react-app/static/js/3.778fd9ec.chunk.js.map",
+    "index.html": "/reddit-api-react-app/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/reddit-api-react-app/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b7cef03f.chunk.css.map": "/reddit-api-react-app/static/css/main.b7cef03f.chunk.css.map",
+    "static/js/2.307c2d23.chunk.js.LICENSE.txt": "/reddit-api-react-app/static/js/2.307c2d23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ca0729.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.307c2d23.chunk.js",
+    "static/css/main.b7cef03f.chunk.css",
+    "static/js/main.0f9857b9.chunk.js"
+  ]
+}
